@@ -1,4 +1,4 @@
-# A-Case-for-Stay-at-Home-Parents
+# A Case for Stay-at-Home Parents (mock ad campaign)
 
 This small project is a mock ad campaign encouraging parents to stay home with kids when their finances make sense.
 
